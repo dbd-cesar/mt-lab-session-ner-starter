@@ -1,0 +1,174 @@
+{
+  "EXP-01": {
+    "precision": 0.9953271028037384,
+    "recall": 0.9937791601866252,
+    "f1": 0.9945525291828794,
+    "per_label": {
+      "MARCA": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PRODUTO": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1": 0.6666666666666666
+      },
+      "RECURSO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "REFERENCIA": {
+        "precision": 0.971830985915493,
+        "recall": 0.9583333333333334,
+        "f1": 0.965034965034965
+      },
+      "RESOLUCAO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "TAMANHO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "TECNOLOGIA": {
+        "precision": 0.9883720930232558,
+        "recall": 1.0,
+        "f1": 0.9941520467836257
+      }
+    },
+    "num_errors": 7
+  },
+  "EXP-02": {
+    "precision": 0.9845679012345679,
+    "recall": 0.9922239502332815,
+    "f1": 0.9883810999225406,
+    "per_label": {
+      "MARCA": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PRODUTO": {
+        "precision": 0.2222222222222222,
+        "recall": 1.0,
+        "f1": 0.3636363636363636
+      },
+      "RECURSO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "REFERENCIA": {
+        "precision": 0.9710144927536232,
+        "recall": 0.9305555555555556,
+        "f1": 0.9503546099290779
+      },
+      "RESOLUCAO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "TAMANHO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "TECNOLOGIA": {
+        "precision": 0.9883720930232558,
+        "recall": 1.0,
+        "f1": 0.9941520467836257
+      }
+    },
+    "num_errors": 13
+  },
+  "EXP-03": {
+    "precision": 0.9890965732087228,
+    "recall": 0.9875583203732504,
+    "f1": 0.9883268482490273,
+    "per_label": {
+      "MARCA": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PRODUTO": {
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25
+      },
+      "RECURSO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "REFERENCIA": {
+        "precision": 0.9848484848484849,
+        "recall": 0.9027777777777778,
+        "f1": 0.9420289855072465
+      },
+      "RESOLUCAO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "TAMANHO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "TECNOLOGIA": {
+        "precision": 0.9883720930232558,
+        "recall": 1.0,
+        "f1": 0.9941520467836257
+      }
+    },
+    "num_errors": 11
+  },
+  "EXP-04": {
+    "precision": 0.9815384615384616,
+    "recall": 0.9922239502332815,
+    "f1": 0.9868522815158546,
+    "per_label": {
+      "MARCA": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PRODUTO": {
+        "precision": 0.1111111111111111,
+        "recall": 0.5,
+        "f1": 0.1818181818181818
+      },
+      "RECURSO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "REFERENCIA": {
+        "precision": 0.9577464788732394,
+        "recall": 0.9444444444444444,
+        "f1": 0.951048951048951
+      },
+      "RESOLUCAO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "TAMANHO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "TECNOLOGIA": {
+        "precision": 0.9883720930232558,
+        "recall": 1.0,
+        "f1": 0.9941520467836257
+      }
+    },
+    "num_errors": 12
+  }
+}
